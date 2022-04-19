@@ -1,21 +1,21 @@
 ## Features:
 
-Create clients
+### Create clients
 
-Create client's account
+### Create client's account
 
-Add money to client's account
+### Add money to client's account
 
-Withdraw money
+### Withdraw money
 
-Transfer money
+### Transfer money
 
 ## Rules:
 
-Transaction type validator 
+### Transaction type validator 
 
-Validate accounts' existence
+### Validate accounts' existence
 
-Add 3 currencies to validate 
+### Add 3 currencies to validate 
 
-User should be able to use these currencies
+### User should be able to use these currencies
